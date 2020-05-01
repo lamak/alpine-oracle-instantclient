@@ -1,4 +1,4 @@
-# Docker - Oracle instant client -
+# Docker - Oracle instant client for Python (Alpine)
 
 "Oracle Instant Client enables development and production deployment of Oracle Database applications. It is used for popular languages and environments including Node.js, Python and PHP, as well as providing access for OCI, OCCI, JDBC, ODBC and Pro*C applications."
 
